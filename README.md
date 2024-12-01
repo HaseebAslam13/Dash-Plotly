@@ -9,7 +9,6 @@ A project leveraging NLP and image analysis to find trends, assumptions, and con
 
 ## ✨ **Key Features**  
 - 🔍 **Data Analysis**: Process meal data from Firebase Firestore for insights.  
-- 🧠 **NLP Techniques**: Analyze meal descriptions for similarities.  
 - 🖼️ **Image Analysis**: Explore meal photos using open-source APIs.  
 - 📊 **Pattern Recognition**: Generate valuable insights from user meal logs.  
 
